@@ -11,7 +11,7 @@
     "offset_x": 0,
     "offset_y": 0,
     "rotation": 0,
-    "color_depth": "16",
+    "color_depth": 16,
     "lvgl_export_path": "Middlewares/Third_Party/lvgl_port",
     "lvgl_include_path": "lvgl/lvgl.h",
     "language": "C",
