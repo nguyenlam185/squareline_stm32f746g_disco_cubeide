@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "group": "ST",
     "title": "STM32F746G-DISCO board",
     "width": 480,
@@ -15,7 +15,7 @@
     "lvgl_export_path": "Middlewares/Third_Party/lvgl_port",
     "lvgl_include_path": "lvgl/lvgl.h",
     "language": "C",
-    "supported_lvgl_version": "8.2.*",
+    "supported_lvgl_version": "8.3.*",
     "pattern_match_files": "./lv_conf.h, ./Core/Src/main.c, ./.cproject, ./.project",
     "ui_export_path": "Middlewares/ui",
     "flat_export": false,
